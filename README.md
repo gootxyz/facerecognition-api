@@ -1,3 +1,3 @@
-# facrecognition-api
+# facerecognition-api
 
 API for facerecognition-app
